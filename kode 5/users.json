@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "password": "admin123",
+        "email": "admin@example.com"
+    },
+    "user": {
+        "password": "user123",
+        "email": "user@example.com"
+    },
+    "daniel": {
+        "password": "123456",
+        "email": "daniel@gmail.com"
+    },
+    "dono": {
+        "password": "123456",
+        "email": "dono@sfr.com"
+    }
+}
